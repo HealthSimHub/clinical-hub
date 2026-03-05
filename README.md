@@ -1,1 +1,1 @@
-# clinical-emr-pro
+# hshub-clinical-desktop
